@@ -1,6 +1,6 @@
 <!-- Maximiliano Lioi | README.md for GitHub Profile -->
-<h1 align="center">👋 Hola, soy Maximiliano Lioi</h1>
-<h3 align="center">Data Scientist | Ingeniero Matemático | ML & Optimización </h3>
+<h1 align="center">👋 Hi, I'm Maximiliano Lioi</h1>
+<h3 align="center">Data Scientist | Mathematical Engineer | ML & Optimization</h3>
 
 <p align="center">
   <a href="mailto:maximiliano.lioi.b@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -10,45 +10,46 @@
 
 ---
 
-### 📄 Sobre mí
+### 📄 About Me
 
-Soy **Data Scientist** e **Ingeniero Civil Matemático**, apasionado por la optimización y el desarrollo de soluciones de Machine Learning en la industria.  
-Tengo experiencia en modelos estadísticos y ML (regresión, clasificación, MMM, redes neuronales), análisis de datos complejos y desarrollo de software en Python, con fuerte base matemática.
+I am a **Data Scientist** and **Mathematical Engineer** passionate about optimization and the development of machine learning solutions for industry.  
+I have experience in statistical modeling and ML (regression, classification, MMM, neural networks), complex data analysis, and Python software development, all backed by a strong mathematical foundation.
 
-- 📊 Actualmente: Data Scientist, calibrando modelos de marketing mix y desarrollando pipelines de ML para clientes de LATAM y USA.
-- 🏫 Formación: Magíster en Matemáticas Aplicadas y Ingeniero Civil Matemático, U. de Chile.
-- 🤖 Intereses: ML interpretativo, optimización, simulación, aplicaciones industriales.
-- ✨ Hábil en: Python, Scikit-learn, PyTorch, CVXPY, Pandas, Gurobi, R, Docker, Git, Jupyter.
-- 📝 Publicaciones: [arXiv:2501.04781](https://arxiv.org/abs/2501.04781) — Inexact Catching-up Algorithm for Moreau’s Sweeping Processes.
+- 📊 **Current role:** Data Scientist, calibrating marketing mix models and developing ML pipelines for LATAM and US clients.
+- 🏫 **Education:** MSc in Applied Mathematics and Mathematical Engineering, University of Chile.
+- 🤖 **Interests:** Interpretable ML, optimization, simulation, and industrial applications.
+- ✨ **Skills:** Python, Scikit-learn, PyTorch, CVXPY, Pandas, Gurobi, R, Docker, Git, Jupyter.
+- 📝 **Publication:** [arXiv:2501.04781](https://arxiv.org/abs/2501.04781) — Inexact Catching-up Algorithm for Moreau’s Sweeping Processes.
 
 ---
 
-### 🚀 Proyectos destacados
+### 🚀 Featured Projects
 
 - **[UFC Fight Predictor](https://github.com/mfourier/ufc-predictor):**  
-  Pipeline de clasificación binaria para predecir ganadores de peleas UFC usando estadísticas de peleadores. Incluye ETL, feature engineering, comparación de modelos ML (scikit-learn, PyTorch).
----
-
-### 📚 Educación
-
-- **Magíster en Ciencias de la Ingeniería, mención Matemáticas Aplicadas** — Universidad de Chile (2024-2025)
-- **Ingeniero Civil Matemático** — Universidad de Chile (2018-2025)
+  Binary classification pipeline to predict UFC fight winners using fighter statistics. Includes ETL, feature engineering, and ML model comparison (scikit-learn, PyTorch).
 
 ---
 
-### 🛠️ Habilidades técnicas
+### 📚 Education
 
-- **Lenguajes:** Python (NumPy, Pandas, SciPy, Matplotlib, Scikit-learn, PyTorch, CVXPY), R, Bash, Gurobi.
-- **Herramientas:** VS Code, Jupyter, Docker, Git/GitHub, Linux, Anaconda, RStudio.
-- **Inglés:** B2 (TOEFL ITP 2021)
-- **Certificados:**
+- **MSc in Engineering Sciences, Applied Mathematics** — University of Chile (2024-2025)
+- **Mathematical Civil Engineer** — University of Chile (2018-2025)
+
+---
+
+### 🛠️ Technical Skills
+
+- **Languages:** Python (NumPy, Pandas, SciPy, Matplotlib, Scikit-learn, PyTorch, CVXPY), R, Bash, Gurobi.
+- **Tools:** VS Code, Jupyter, Docker, Git/GitHub, Linux, Anaconda, RStudio.
+- **English:** B2 (TOEFL ITP 2021)
+- **Certificates:**
   - [Deep Learning with PyTorch (Coursera)](https://www.coursera.org/account/accomplishments/records/HB2BHP9D48ZG)
   - [Applied ML with Python (Coursera)](https://www.coursera.org/account/accomplishments/records/NXYW9SC14T6R)
   - [Data Analysis with R (Coursera)](https://www.coursera.org/account/accomplishments/specialization/YS2Y6VBY498X)
 
 ---
 
-### 📬 ¿Quieres contactarme?
+### 📬 Contact Me
 
 - 📧 maximiliano.lioi.b@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/mlioi/)
