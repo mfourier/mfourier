@@ -17,7 +17,7 @@ I have experience in statistical modeling and ML (regression, classification, MM
 
 - 📊 **Current role:** Data Scientist, calibrating marketing mix models and developing ML pipelines for LATAM and US clients.
 - 🏫 **Education:** MSc in Applied Mathematics and Mathematical Engineering, University of Chile.
-- 🤖 **Interests:** Interpretable ML, optimization, simulation, and industrial applications.
+- 🤖 **Interests:** ML, optimization, simulation, and industrial applications.
 - ✨ **Skills:** Python, Scikit-learn, PyTorch, CVXPY, Pandas, Gurobi, R, Docker, Git, Jupyter.
 - 📝 **Publication:** [arXiv:2501.04781](https://arxiv.org/abs/2501.04781) — Inexact Catching-up Algorithm for Moreau’s Sweeping Processes.
 
