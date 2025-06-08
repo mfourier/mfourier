@@ -33,7 +33,7 @@ I have experience in statistical modeling and ML (regression, classification, MM
 ### 📚 Education
 
 - **MSc in Engineering Sciences, Applied Mathematics** — University of Chile (2024-2025)
-- **Mathematical Civil Engineer** — University of Chile (2018-2025)
+- **Mathematical Engineering** — University of Chile (2018-2025)
 
 ---
 
