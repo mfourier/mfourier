@@ -26,7 +26,7 @@ I have experience in statistical modeling and ML (regression, classification, MM
 ### 🚀 Featured Projects
 
 - **[UFC Fight Predictor](https://github.com/mfourier/ufc-predictor):**  
-  Binary classification pipeline to predict UFC fight winners using fighter statistics. Includes ETL, feature engineering, and ML model comparison (scikit-learn, PyTorch).
+  Binary classification pipeline to predict UFC fight winners using fighter statistics. Includes ETL, feature engineering, and ML model comparison (scikit-learn).
 
 ---
 
