@@ -13,7 +13,7 @@
 ### 📄 About Me
 
 I am a **Data Scientist** and **Mathematical Engineer** passionate about optimization and the development of machine learning solutions for industry.  
-I have experience in statistical modeling and ML (regression, classification, MMM, neural networks), complex data analysis, and Python software development, all backed by a strong mathematical foundation.
+I have experience in statistical modeling and ML (regression, classification, MMM, neural networks), complex data analysis, and Python development, all backed by a strong mathematical foundation.
 
 - 📊 **Current role:** Data Scientist, calibrating marketing mix models and developing ML pipelines for LATAM and US clients.
 - 🏫 **Education:** MSc in Applied Mathematics and Mathematical Engineering, University of Chile.
