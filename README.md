@@ -19,7 +19,7 @@ I have experience in statistical modeling and ML (regression, classification, MM
 - 🏫 **Education:** MSc in Applied Mathematics and Mathematical Engineering, University of Chile.
 - 🤖 **Interests:** ML, optimization, simulation, and industrial applications.
 - ✨ **Skills:** Python, Scikit-learn, PyTorch, CVXPY, Pandas, Gurobi, R, Docker, Git, Jupyter.
-- 📝 **Publication:** [arXiv:2501.04781](https://arxiv.org/abs/2501.04781) — Inexact Catching-up Algorithm for Moreau’s Sweeping Processes.
+- 📝 **Publication:** [doi:10.1007/s00245-025-10307-w](https://doi.org/10.1007/s00245-025-10307-w) — Garrido, J.G., Lioi, M. & Vilches, E. Inexact Catching-Up Algorithm for Moreau’s Sweeping Processes. Appl Math Optim 92, 34 (2025). Read it on [arXiv:2501.04781](https://arxiv.org/abs/2501.04781)
 
 ---
 
