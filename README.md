@@ -24,6 +24,8 @@ I have experience in statistical modeling and ML (regression, classification, MM
 ---
 
 ### 🚀 Featured Projects
+- **[Fin-Opt](https://github.com/mfourier/fin-opt):**  
+  Modular Python tool for personal finance planning and investment optimization using simulation and optimization algorithms. 
 - **[UFC Fight Predictor v2](https://github.com/mfourier/ufc-predictor-v2):**  
   Advanced machine learning pipeline for predicting UFC fight outcomes. Built with **AutoGluon**, featuring leakage-safe feature engineering, automated model selection, and enriched fighter statistics.  
   
