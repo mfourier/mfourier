@@ -1,6 +1,6 @@
 <!-- Maximiliano Lioi | README.md for GitHub Profile -->
 <h1 align="center">👋 Hi, I'm Maximiliano Lioi</h1>
-<h3 align="center">Data Scientist | Mathematical Engineer | ML & Optimization</h3>
+<h3 align="center">Data Scientist | Mathematical Engineer | ML, Bayesian Modeling & Optimization</h3>
 
 <p align="center">
   <a href="mailto:maximiliano.lioi.b@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -12,20 +12,20 @@
 
 ### 📄 About Me
 
-I am a **Data Scientist** and **Mathematical Engineer** passionate about optimization and the development of machine learning solutions for industry.  
-I have experience in statistical modeling and ML (regression, classification, MMM, neural networks), complex data analysis, and Python development, all backed by a strong mathematical foundation.
+I am a **Data Scientist** and **Applied Mathematician** focused on Bayesian modeling, mathematical optimization, and applied ML systems.
+I have experience developing statistical models in production contexts, building internal Python libraries, validating Bayesian inference workflows, and translating mathematical methods into usable software.
 
-- 📊 **Current role:** Data Scientist, calibrating marketing mix models and developing ML pipelines for LATAM and US clients.
+- 📊 **Current role:** Data Scientist working on Bayesian Marketing Mix Models, ROI measurement, budget optimization, internal Python libraries.
 - 🏫 **Education:** MSc in Applied Mathematics and Mathematical Engineering, University of Chile.
-- 🤖 **Interests:** ML, optimization, simulation, and industrial applications.
-- ✨ **Skills:** Python, Scikit-learn, PyTorch, CVXPY, Pandas, Gurobi, R, Docker, Git, Jupyter.
+- 🤖 **Interests:** Bayesian inference, optimization, simulation, and applied ML products.
+- ✨ **Skills:** Python, Bayesian modeling, MMM, CVXPY, PyTorch, Scikit-learn, FastAPI, Docker, Supabase, R, Bash.
 - 📝 **Publication:** [doi:10.1007/s00245-025-10307-w](https://doi.org/10.1007/s00245-025-10307-w) — Garrido, J.G., Lioi, M. & Vilches, E. Inexact Catching-Up Algorithm for Moreau’s Sweeping Processes. Appl Math Optim 92, 34 (2025). Read it on [arXiv:2501.04781](https://arxiv.org/abs/2501.04781)
 
 ---
 
 ### 🚀 Featured Projects
 - **[Fin-Opt](https://github.com/mfourier/fin-opt):**  
-  Modular Python tool for personal finance planning and investment optimization using simulation and optimization algorithms. 
+  Full-stack goal-based financial planning platform combining Monte Carlo simulation, CVaR-constrained convex optimization, a FastAPI compute backend, Supabase persistence, and a React/Vite frontend.
 - **[UFC Fight Predictor v2](https://github.com/mfourier/ufc-predictor-v2):**  
   Advanced machine learning pipeline for predicting UFC fight outcomes. Built with **AutoGluon**, featuring leakage-safe feature engineering, automated model selection, and enriched fighter statistics.  
   
