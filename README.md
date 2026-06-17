@@ -13,6 +13,7 @@
 ### 📄 About Me
 
 I am a **Data Scientist** and **Applied Mathematician** focused on Bayesian modeling, mathematical optimization, and applied ML systems.
+
 I have experience developing statistical models in production contexts, building internal Python libraries, validating Bayesian inference workflows, and translating mathematical methods into usable software.
 
 - 📊 **Current role:** Data Scientist working on Bayesian Marketing Mix Models, ROI measurement, budget optimization, internal Python libraries.
